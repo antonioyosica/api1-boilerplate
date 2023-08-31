@@ -1,0 +1,17 @@
+C:\src\api1-boilerplate\src\CoreAPI.Domain\bin\Debug\net7.0\CoreAPI.Domain.deps.json
+C:\src\api1-boilerplate\src\CoreAPI.Domain\bin\Debug\net7.0\CoreAPI.Domain.dll
+C:\src\api1-boilerplate\src\CoreAPI.Domain\bin\Debug\net7.0\CoreAPI.Domain.pdb
+C:\src\api1-boilerplate\src\CoreAPI.Domain\bin\Debug\net7.0\CoreAPI.Data.dll
+C:\src\api1-boilerplate\src\CoreAPI.Domain\bin\Debug\net7.0\CoreAPI.Models.dll
+C:\src\api1-boilerplate\src\CoreAPI.Domain\bin\Debug\net7.0\CoreAPI.Data.pdb
+C:\src\api1-boilerplate\src\CoreAPI.Domain\bin\Debug\net7.0\CoreAPI.Models.pdb
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.csproj.AssemblyReference.cache
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.AssemblyInfoInputs.cache
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.AssemblyInfo.cs
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.csproj.CoreCompileInputs.cache
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.csproj.CopyComplete
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.dll
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\refint\CoreAPI.Domain.dll
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\CoreAPI.Domain.pdb
+C:\src\api1-boilerplate\src\CoreAPI.Domain\obj\Debug\net7.0\ref\CoreAPI.Domain.dll

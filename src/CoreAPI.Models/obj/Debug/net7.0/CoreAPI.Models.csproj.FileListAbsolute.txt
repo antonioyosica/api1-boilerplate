@@ -1,0 +1,11 @@
+C:\src\api1-boilerplate\src\CoreAPI.Models\bin\Debug\net7.0\CoreAPI.Models.deps.json
+C:\src\api1-boilerplate\src\CoreAPI.Models\bin\Debug\net7.0\CoreAPI.Models.dll
+C:\src\api1-boilerplate\src\CoreAPI.Models\bin\Debug\net7.0\CoreAPI.Models.pdb
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\CoreAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\CoreAPI.Models.AssemblyInfoInputs.cache
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\CoreAPI.Models.AssemblyInfo.cs
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\CoreAPI.Models.csproj.CoreCompileInputs.cache
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\CoreAPI.Models.dll
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\refint\CoreAPI.Models.dll
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\CoreAPI.Models.pdb
+C:\src\api1-boilerplate\src\CoreAPI.Models\obj\Debug\net7.0\ref\CoreAPI.Models.dll
