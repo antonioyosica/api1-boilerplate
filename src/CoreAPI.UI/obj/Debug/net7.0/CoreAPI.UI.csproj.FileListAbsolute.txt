@@ -37,3 +37,7 @@ C:\src\api1-boilerplate\src\CoreAPI.UI\obj\Debug\net7.0\refint\CoreAPI.UI.dll
 C:\src\api1-boilerplate\src\CoreAPI.UI\obj\Debug\net7.0\CoreAPI.UI.pdb
 C:\src\api1-boilerplate\src\CoreAPI.UI\obj\Debug\net7.0\CoreAPI.UI.genruntimeconfig.cache
 C:\src\api1-boilerplate\src\CoreAPI.UI\obj\Debug\net7.0\ref\CoreAPI.UI.dll
+C:\src\api1-boilerplate\src\CoreAPI.UI\bin\Debug\net7.0\MediatR.dll
+C:\src\api1-boilerplate\src\CoreAPI.UI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\src\api1-boilerplate\src\CoreAPI.UI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\src\api1-boilerplate\src\CoreAPI.UI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
