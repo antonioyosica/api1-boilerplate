@@ -1,4 +1,5 @@
 using System.Reflection;
+using CoreAPI.Domain.Services;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
@@ -9,7 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddApiVersioning();
-builder.Services.AddMediatR(msc => msc.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+builder.Services.AddTransient<ICqrsService, CqrsService>();
+builder.Services.AddMediatR(msc => msc.RegisterServicesFromAssembly(typeof(CoreAPI.Domain.Commands.Account.CreateAccountCommandHandler).Assembly));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddApiVersioning(options =>
 {
@@ -37,7 +39,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
